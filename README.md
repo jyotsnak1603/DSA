@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/jyotsnak1603/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jyotsnak1603/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/jyotsnak1603/DSA/tree/master/0226-invert-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/jyotsnak1603/DSA/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/jyotsnak1603/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jyotsnak1603/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/jyotsnak1603/DSA/tree/master/0226-invert-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/jyotsnak1603/DSA/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -55,8 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/jyotsnak1603/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jyotsnak1603/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/jyotsnak1603/DSA/tree/master/0226-invert-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/jyotsnak1603/DSA/tree/master/0938-range-sum-of-bst) |
 ## Stack
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jyotsnak1603/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/jyotsnak1603/DSA/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
