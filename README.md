@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jyotsnak1603/DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jyotsnak1603/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/jyotsnak1603/DSA/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jyotsnak1603/DSA/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jyotsnak1603/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
