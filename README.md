@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/jyotsnak1603/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/jyotsnak1603/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/jyotsnak1603/DSA/tree/master/0485-max-consecutive-ones) |
+| [1207-unique-number-of-occurrences](https://github.com/jyotsnak1603/DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/jyotsnak1603/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/jyotsnak1603/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/jyotsnak1603/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1207-unique-number-of-occurrences](https://github.com/jyotsnak1603/DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Linked List
 |  |
 | ------- |
