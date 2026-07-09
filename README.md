@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jyotsnak1603/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/jyotsnak1603/DSA/tree/master/0485-max-consecutive-ones) |
 | [1207-unique-number-of-occurrences](https://github.com/jyotsnak1603/DSA/tree/master/1207-unique-number-of-occurrences) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/jyotsnak1603/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jyotsnak1603/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/jyotsnak1603/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1207-unique-number-of-occurrences](https://github.com/jyotsnak1603/DSA/tree/master/1207-unique-number-of-occurrences) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/jyotsnak1603/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jyotsnak1603/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/jyotsnak1603/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/jyotsnak1603/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Quickselect
 |  |
 | ------- |
