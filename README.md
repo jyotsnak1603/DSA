@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/jyotsnak1603/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/jyotsnak1603/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jyotsnak1603/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/jyotsnak1603/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/jyotsnak1603/DSA/tree/master/0226-invert-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/jyotsnak1603/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/jyotsnak1603/DSA/tree/master/0938-range-sum-of-bst) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/jyotsnak1603/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/jyotsnak1603/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jyotsnak1603/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/jyotsnak1603/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/jyotsnak1603/DSA/tree/master/0226-invert-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/jyotsnak1603/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/jyotsnak1603/DSA/tree/master/0938-range-sum-of-bst) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/jyotsnak1603/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0875-koko-eating-bananas](https://github.com/jyotsnak1603/DSA/tree/master/0875-koko-eating-bananas) |
 | [0897-increasing-order-search-tree](https://github.com/jyotsnak1603/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/jyotsnak1603/DSA/tree/master/0938-range-sum-of-bst) |
@@ -153,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/jyotsnak1603/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/jyotsnak1603/DSA/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
