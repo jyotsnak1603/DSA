@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jyotsnak1603/DSA/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/jyotsnak1603/DSA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/jyotsnak1603/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/jyotsnak1603/DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyotsnak1603/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/jyotsnak1603/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jyotsnak1603/DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyotsnak1603/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Design
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jyotsnak1603/DSA/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/jyotsnak1603/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jyotsnak1603/DSA/tree/master/0055-jump-game) |
 ## Tree
 |  |
