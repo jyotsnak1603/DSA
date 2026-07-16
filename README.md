@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jyotsnak1603/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/jyotsnak1603/DSA/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/jyotsnak1603/DSA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/jyotsnak1603/DSA/tree/master/0049-group-anagrams) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jyotsnak1603/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/jyotsnak1603/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0875-koko-eating-bananas](https://github.com/jyotsnak1603/DSA/tree/master/0875-koko-eating-bananas) |
 | [0897-increasing-order-search-tree](https://github.com/jyotsnak1603/DSA/tree/master/0897-increasing-order-search-tree) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jyotsnak1603/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/jyotsnak1603/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
