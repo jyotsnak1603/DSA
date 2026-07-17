@@ -12,7 +12,7 @@ class Solution:
 
                     if count==m:
                         return True
-            return count>=m
+            return False
         low=1
         high=position[-1] - position[0]
         answer=0
