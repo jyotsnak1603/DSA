@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/jyotsnak1603/DSA/tree/master/0485-max-consecutive-ones) |
 | [0875-koko-eating-bananas](https://github.com/jyotsnak1603/DSA/tree/master/0875-koko-eating-bananas) |
 | [1207-unique-number-of-occurrences](https://github.com/jyotsnak1603/DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1552-magnetic-force-between-two-balls](https://github.com/jyotsnak1603/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/jyotsnak1603/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/jyotsnak1603/DSA/tree/master/0875-koko-eating-bananas) |
 | [0897-increasing-order-search-tree](https://github.com/jyotsnak1603/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/jyotsnak1603/DSA/tree/master/0938-range-sum-of-bst) |
+| [1552-magnetic-force-between-two-balls](https://github.com/jyotsnak1603/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jyotsnak1603/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/jyotsnak1603/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/jyotsnak1603/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1552-magnetic-force-between-two-balls](https://github.com/jyotsnak1603/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Math
 |  |
 | ------- |
