@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/jyotsnak1603/DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyotsnak1603/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/jyotsnak1603/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/jyotsnak1603/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jyotsnak1603/DSA/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/jyotsnak1603/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/jyotsnak1603/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/jyotsnak1603/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/jyotsnak1603/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jyotsnak1603/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/jyotsnak1603/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jyotsnak1603/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jyotsnak1603/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/jyotsnak1603/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/jyotsnak1603/DSA/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/jyotsnak1603/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jyotsnak1603/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jyotsnak1603/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/jyotsnak1603/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jyotsnak1603/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/jyotsnak1603/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/jyotsnak1603/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jyotsnak1603/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/jyotsnak1603/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/jyotsnak1603/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/jyotsnak1603/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
