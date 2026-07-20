@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/jyotsnak1603/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jyotsnak1603/DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/jyotsnak1603/DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/jyotsnak1603/DSA/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyotsnak1603/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Design
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jyotsnak1603/DSA/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/jyotsnak1603/DSA/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/jyotsnak1603/DSA/tree/master/0258-add-digits) |
 ## Divide and Conquer
 |  |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jyotsnak1603/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jyotsnak1603/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
