@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/jyotsnak1603/DSA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/jyotsnak1603/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/jyotsnak1603/DSA/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/jyotsnak1603/DSA/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyotsnak1603/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/jyotsnak1603/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/jyotsnak1603/DSA/tree/master/0169-majority-element) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/jyotsnak1603/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jyotsnak1603/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/jyotsnak1603/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/jyotsnak1603/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/jyotsnak1603/DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/jyotsnak1603/DSA/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyotsnak1603/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jyotsnak1603/DSA/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/jyotsnak1603/DSA/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
