@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/jyotsnak1603/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/jyotsnak1603/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/jyotsnak1603/DSA/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/jyotsnak1603/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jyotsnak1603/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/jyotsnak1603/DSA/tree/master/0875-koko-eating-bananas) |
 | [1207-unique-number-of-occurrences](https://github.com/jyotsnak1603/DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/jyotsnak1603/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/jyotsnak1603/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jyotsnak1603/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jyotsnak1603/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/jyotsnak1603/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/jyotsnak1603/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/jyotsnak1603/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jyotsnak1603/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/jyotsnak1603/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/jyotsnak1603/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
