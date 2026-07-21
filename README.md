@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jyotsnak1603/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/jyotsnak1603/DSA/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/jyotsnak1603/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jyotsnak1603/DSA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/jyotsnak1603/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/jyotsnak1603/DSA/tree/master/0055-jump-game) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jyotsnak1603/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jyotsnak1603/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jyotsnak1603/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/jyotsnak1603/DSA/tree/master/0062-unique-paths) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jyotsnak1603/DSA/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/jyotsnak1603/DSA/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/jyotsnak1603/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jyotsnak1603/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/jyotsnak1603/DSA/tree/master/0234-palindrome-linked-list) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jyotsnak1603/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/jyotsnak1603/DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jyotsnak1603/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/jyotsnak1603/DSA/tree/master/0234-palindrome-linked-list) |
 | [0897-increasing-order-search-tree](https://github.com/jyotsnak1603/DSA/tree/master/0897-increasing-order-search-tree) |
@@ -230,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/jyotsnak1603/DSA/tree/master/0063-unique-paths-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/jyotsnak1603/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
