@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/jyotsnak1603/DSA/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyotsnak1603/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0516-longest-palindromic-subsequence](https://github.com/jyotsnak1603/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/jyotsnak1603/DSA/tree/master/0583-delete-operation-for-two-strings) |
 ## Design
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/jyotsnak1603/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/jyotsnak1603/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/jyotsnak1603/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/jyotsnak1603/DSA/tree/master/0583-delete-operation-for-two-strings) |
 ## Recursion
 |  |
 | ------- |
