@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jyotsnak1603/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/jyotsnak1603/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/jyotsnak1603/DSA/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/jyotsnak1603/DSA/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyotsnak1603/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/jyotsnak1603/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/jyotsnak1603/DSA/tree/master/0169-majority-element) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/jyotsnak1603/DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jyotsnak1603/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/jyotsnak1603/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jyotsnak1603/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jyotsnak1603/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/jyotsnak1603/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/jyotsnak1603/DSA/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/jyotsnak1603/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/jyotsnak1603/DSA/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/jyotsnak1603/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/jyotsnak1603/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -241,8 +244,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/jyotsnak1603/DSA/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/jyotsnak1603/DSA/tree/master/0079-word-search) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jyotsnak1603/DSA/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/jyotsnak1603/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
