@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/jyotsnak1603/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jyotsnak1603/DSA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/jyotsnak1603/DSA/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/jyotsnak1603/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyotsnak1603/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/jyotsnak1603/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/jyotsnak1603/DSA/tree/master/0169-majority-element) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/jyotsnak1603/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/jyotsnak1603/DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/jyotsnak1603/DSA/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/jyotsnak1603/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/jyotsnak1603/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jyotsnak1603/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/jyotsnak1603/DSA/tree/master/0234-palindrome-linked-list) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/jyotsnak1603/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/jyotsnak1603/DSA/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/jyotsnak1603/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jyotsnak1603/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jyotsnak1603/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jyotsnak1603/DSA/tree/master/0242-valid-anagram) |
