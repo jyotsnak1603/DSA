@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jyotsnak1603/DSA/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/jyotsnak1603/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/jyotsnak1603/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/jyotsnak1603/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/jyotsnak1603/DSA/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/jyotsnak1603/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jyotsnak1603/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jyotsnak1603/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jyotsnak1603/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/jyotsnak1603/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/jyotsnak1603/DSA/tree/master/0414-third-maximum-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/jyotsnak1603/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Math
 |  |
